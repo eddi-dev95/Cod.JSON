@@ -1,0 +1,23 @@
+codigo_pais = {
+    "USA": 1,
+    "CAN": 1,
+    "UK": 44,
+    "FRA": 33,
+    "GER": 49,
+    "JPN": 81,
+    "AUS": 61,
+    "BRA": 55,
+    "IND": 91,
+    "MEX": 52,
+    "COL": 57,
+    "CUB": 53,
+    "ECU": 593,
+    "ARG": 54,
+    "CHL": 56,
+    "ESP": 34,
+    "PAN": 507,
+    "CRI": 506,
+    "GTM": 502,
+    "BLZ": 501,
+    # Agrega más códigos de país y abreviaturas según sea necesario
+}
